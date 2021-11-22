@@ -1,4 +1,4 @@
-# COMP5361-automata
+# finite-automata
 
 **COMP 5361 Discrete Structures and Formal Languages**
 
